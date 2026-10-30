@@ -1,0 +1,33 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Credentials
+.env
+.env.*
+*credentials*.json
+*service-account*.json
+
+# Dataset histopatologi
+*.svs
+*.tif
+*.tiff
+*.ndpi
+
+# Model dan hasil komputasi
+*.pth
+*.pt
+*.h5
+*.hdf5
+*.ckpt
+
+# File arsip
+*.zip
+
+# System files
+.DS_Store
+Thumbs.db
